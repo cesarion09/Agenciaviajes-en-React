@@ -1,0 +1,49 @@
+footer {
+    text-align: left;
+    padding: 20px;
+    background-color: #150f4f;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer .gordo {
+    font-weight: bold;
+}
+
+footer .flex {
+    display: flex;
+    flex-direction: row;
+
+}
+
+footer button {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+}
+
+footer .ayuda {
+    flex: 6;
+}
+
+footer .ayuda div {
+    margin-left: 30%;
+}
+
+footer .informacion {
+    flex: 2;
+}
+
+footer .newsletter {
+    flex: 4;
+}
+
+footer .pie {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 60%;
+}

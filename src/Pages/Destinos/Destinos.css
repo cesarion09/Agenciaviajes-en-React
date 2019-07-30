@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+.viajesCuadros {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.masdestinos {
+    text-align: center;
+}

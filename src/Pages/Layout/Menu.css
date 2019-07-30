@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    flex-direction: row;
+    position:sticky;
+    top: 0px;
+    background-color: #150f4f;
+    padding: 10px 20px;
+    z-index:999;
+}
+
+header .logo, header.redes{
+    flex: 1;
+}
+
+header .menu{
+    flex: 3;
+    text-align: center;
+}
+
+header img{
+    max-width:20%;
+    float:left;
+}
+
+header a{
+    padding:5px;
+    color:white;
+    text-decoration:none;
+    font-weight: bold;
+}

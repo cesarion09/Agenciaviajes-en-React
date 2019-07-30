@@ -1,0 +1,13 @@
+.enviando {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.fotoprevia {
+    width: 80%;
+    margin: 20px;
+}

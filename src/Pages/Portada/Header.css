@@ -1,0 +1,36 @@
+.cabecera {
+    background: #ffffff url("/imgs/portada.jpg") no-repeat center center;
+    background-size: cover;
+    height: 600px;
+}
+
+.cabecera .destacado{
+    font-weight: bold;
+    font-size: 300%;
+    color:white;  
+}
+
+.cabecera p{
+    font-size: 200%;
+    color:white;  
+}
+.cabecera .texto{
+    width:50%;
+    padding-left:25%;
+    padding-top:100px;
+    text-align:left;
+}
+
+.cabecera .texto .botonP{
+    padding-top:30px;
+    text-align:center;
+}
+
+.cabecera .texto .botonP a{
+    background-color:yellow;
+    color:black;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 180%;
+    padding:20px;
+}

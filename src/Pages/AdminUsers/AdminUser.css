@@ -1,0 +1,17 @@
+.confirma {
+    padding: 10px;
+    background-color: grey;
+    font-weight: bold;
+}
+
+.flex{
+    flex: 1;
+    margin: 5px 0;
+}
+
+.flex-cab{
+    flex: 1;
+    margin: 5px 0;
+    font-weight: bold;
+    border-bottom: solid grey 1px;
+}
